@@ -7,5 +7,7 @@ int main(void) {
 printf("Ben Faubel\nComputer Science\n");
 printf("Elijah Salinas\n");
 printf("Electrical Engineering\n");
+printf("Fahad Naif\n");
+printf("Computer Science\n");
 return 0;
 }
