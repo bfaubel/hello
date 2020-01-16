@@ -4,6 +4,6 @@ Date: 2020/01/16
 */
 #include <stdio.h>
 int main(void) {
-printf("Ben Faubel\n");
+printf("Ben Faubel\nComputer Science\n");
 return 0;
 }
